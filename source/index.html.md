@@ -1,1 +1,0 @@
-/Users/juju/RailsProjects/osdb3/public/docs/api/index.html.md
